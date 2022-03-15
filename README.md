@@ -1,1 +1,1 @@
-# nextjs-blog-app
+https://nextjs-sample-blog-app.vercel.app/

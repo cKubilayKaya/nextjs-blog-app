@@ -1,0 +1,33 @@
+.createPostContainer{
+    margin-top: 32px;
+    margin:16px 32px;
+    padding:16px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    margin-bottom: 48px;
+ 
+}
+
+.label{
+    font-size: 14px;
+}
+
+input.form-control, input.form-control:focus{
+    background-color: #f0f0ff;;
+}
+
+.error{
+    color:red;
+    font-size: .7rem;
+}
+
+.createPostContainer h1{
+    margin-bottom: 0px !important;
+}
+.underline{
+    margin-top: 8px;
+    width: 56px;
+    height: 4px;
+    background-color: #222;
+    margin-bottom: 32px;
+  }
